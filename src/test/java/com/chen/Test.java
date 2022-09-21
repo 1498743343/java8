@@ -8,4 +8,8 @@ public class Test {
     public void main() {
         System.out.println("this is main 2");
     }
+
+    public void main2() {
+        System.out.println("this is main 3");
+    }
 }
