@@ -16,4 +16,8 @@ public class Test {
     public void t1() {
         System.out.println("this is test1");
     }
+
+    public void main() {
+        System.out.println("this is main 2");
+    }
 }
