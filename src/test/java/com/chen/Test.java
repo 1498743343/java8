@@ -1,8 +1,8 @@
 package com.chen;
 
 public class Test {
-    public void testMain() {
-        System.out.println("this is main");
+    public void test1() {
+        System.out.println("this is test1");
     }
 
     public static void main(String[] args) {
